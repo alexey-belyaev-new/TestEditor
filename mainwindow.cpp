@@ -23,19 +23,3 @@ MainWindow::~MainWindow()
 {
     delete ui;
 }
-
-
-
-
-
-void MainWindow::on_actionNew_triggered()
-{
-
-}
-
-
-void MainWindow::on_actionOpen_triggered()
-{
-
-}
-
